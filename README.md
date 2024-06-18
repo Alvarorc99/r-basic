@@ -25,4 +25,4 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-Iniciación 17/06/2024
+Fecha de iniciación 17/06/2024
