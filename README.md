@@ -25,5 +25,5 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-Fecha de iniciación 17/06/2024
-HOLA SOY ALVARO
+Hola soy Alvaro, la fecha de iniciación del curso de estadística descriptiva es: 17/06/2024
+
