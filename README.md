@@ -26,4 +26,5 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 11. Introducción a distribuciones de probabilidad
 
 Hola soy Alvaro, la fecha de iniciación del curso de estadística descriptiva es: 17/06/2024
+Esto es solo una prueba
 
